@@ -36,7 +36,7 @@
     "minimist": "~1.2.0",
     "npm-registry-packages": "1.x",
     "raw-body": "^2.1.6",
-    "winston": "~2.2.0"
+    "winston": "~2.3.0"
   },
   "devDependencies": {
     "request": "~2.69.0",
